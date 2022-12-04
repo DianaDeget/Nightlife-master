@@ -1,8 +1,10 @@
 # Nightlife App
 
 Project by Diana Andreea Deget
-github link: https://github.com/DianaDeget/Nightlife-master
-project demo video link:  https://www.youtube.com/watch?v=qtLRjkgQyww ( Watch at 1.5x speed :) (or https://youtu.be/rd6b6fptISo in case the first one isn't working )
+ 
+ github link: https://github.com/DianaDeget/Nightlife-master
+
+ project demo video link:  https://www.youtube.com/watch?v=qtLRjkgQyww ( Watch at 1.5x speed :) (or https://youtu.be/rd6b6fptISo in case the first one isn't working )
 
 ## Idea / What to expect:
 
